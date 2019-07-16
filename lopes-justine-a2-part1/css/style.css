@@ -1,0 +1,48 @@
+.story-header {
+  margin-bottom: 3rem;
+  text-align: center;
+  margin-right: 30em;
+  margin-left: 30em;
+}
+
+.main-menu {
+background-color: #eae8df;
+list-style: none;
+padding: 0;
+margin: 0;
+text-align: center;  
+}
+
+.main-menu a {
+color: black;
+
+}
+
+.story-container p {
+text-align: center;
+margin-right: 30em;
+margin-left: 30em;
+}
+
+.story-body {
+  
+  text-align: center;
+  vertical-align: middle;
+  content: "\2726";
+  font-size: 0.95em;
+  margin-right: 30em;
+  margin-left: 30em;
+}
+
+.story-body li {
+  list-style: none;
+}
+
+.hr {
+  display: block;
+  overflow: hidden;
+  border-style: solid;
+  border-width: 3px; 
+  margin-right: 30em;
+  margin-left: 30em;
+} 
